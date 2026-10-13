@@ -1,0 +1,10 @@
+{
+  "name": "MedGuard",
+  "description": "Know what's safe to take together. Fast medication interaction checker with camera photo scanning and safety alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
